@@ -2,6 +2,7 @@
 
 By An Vo
 Date: 4nd Mars 2017
+Source code can be found at https://github.com/anvd/ReproducibleResearch_CourseProject2
 
 ## Reproducible Research: Course Project 2
 
